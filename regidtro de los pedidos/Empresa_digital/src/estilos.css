@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(245, 220, 239);
+    padding-left:10%;
+
+}
+
+#nombre{
+    border-radius: 10px;
+    border-color: rgb(117, 49, 78);
+    width: 100%;
+    padding: 8px;
+    box-sizing: 'border-box';
+}
+#estado{
+    border-radius: 10px;
+    border-color: rgb(117,19,78);
+    width: 100%;
+    padding: 8px;
+    box-sizing: 'border-box';
+}
+
+#documento{
+    border-radius: 10px;
+    border-color: rgb(117, 49, 78);
+    width: 100%;
+    padding: 8px;
+    box-sizing: 'border-box';
+}
+
+#numero{
+    border-radius: 10px;
+    border-color: rgb(117, 49, 78);
+    width: 100%;
+    padding: 8px;
+    box-sizing: 'border-box';
+}
+
+
+#boton{
+    border-radius: 5px;
+}
+
+#lista{
+    border-color:#0e0d0d;
+    color: rgb(0, 0, 0);
+    #tabla{
+        background-color: rgb(238, 188, 243);
+        border-color: gray;
+        border-radius: 10px;
+    }
+}
